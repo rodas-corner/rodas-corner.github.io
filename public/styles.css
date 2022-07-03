@@ -1,9 +1,24 @@
 body {
 	color: #898e8e;
 	background-color: #eaf2d7ff;
+	font-family: Barlow;
 }
 
-h1, h2 {
-	font-family: Comfortaa;
+h1, h2, h3 {
 	color: #4b8f8c;
+	font-family: Comfortaa;
+}
+
+h3 {
+	font-weight: 300;
+}
+
+#logo {
+	max-height: 2em;
+	display: inline-block;
+}
+
+.navbar h1 {
+	display: inline-block;
+	margin: auto;
 }
