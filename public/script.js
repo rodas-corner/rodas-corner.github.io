@@ -13,4 +13,5 @@ function getNextPicture() {
     logo.setAttribute('src', next_logo_path);
 }
 
-setInterval(getNextPicture, 1000);
+setInterval(getNextPicture, 1000)
+

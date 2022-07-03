@@ -8,15 +8,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   viewBox="0 0 316.25195 278.45004"
+   viewBox="0 0 315 265"
    fill="none"
    stroke="none"
    stroke-linecap="square"
    stroke-miterlimit="10"
    id="svg68"
    sodipodi:docname="roda_2.svg"
-   width="316.25195"
-   height="278.45004"
+   width="315"
+   height="265"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
   <metadata
      id="metadata74">
@@ -49,13 +49,14 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.0958333"
-     inkscape:cx="347.81626"
-     inkscape:cy="130.63107"
+     inkscape:zoom="1.571425"
+     inkscape:cx="181.21336"
+     inkscape:cy="111.70748"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g66" />
+     inkscape:current-layer="g66"
+     inkscape:document-rotation="0" />
   <clipPath
      id="g13b10048e4b_0_93.0">
     <path
@@ -69,38 +70,45 @@
      transform="translate(-132.18374,-139.36893)">
     <path
        fill="#ff729f"
-       d="m 381.81836,196.10797 v 0 c 31.87451,46.10577 24.26752,108.75842 -17.71417,145.89688 -41.98166,37.13849 -105.09436,37.047 -146.96819,-0.21301 -41.87383,-37.26004 -49.29917,-99.93446 -17.29112,-145.94763 z"
+       d="m 376.66259,193.51456 v 0 c 30.07864,43.99838 22.90024,103.78733 -16.71612,139.22827 -39.61633,35.44098 -99.17315,35.35367 -138.68773,-0.20327 -39.51458,-35.55697 -46.52156,-95.36669 -16.3169,-139.2767 z"
        fill-rule="evenodd"
-       id="path48" />
+       id="path48"
+       style="stroke-width:0.94896" />
     <path
        fill="#ff729f"
-       d="m 290.74368,301.61984 57.79529,57.79529 -57.79529,57.79529 -57.79526,-57.79529 z"
+       d="m 290.71923,294.20373 54.53899,55.1536 -54.53899,55.1536 -54.53897,-55.1536 z"
        fill-rule="evenodd"
-       id="path50" />
+       id="path50"
+       style="stroke-width:0.94896" />
     <path
        fill="#02c39a"
-       d="m 290.30972,417.81897 v 0 c 0.0434,-87.29984 70.82611,-158.0473 158.12598,-158.0473 z"
+       d="m 290.30972,405.09167 v 0 c 0.041,-83.30957 66.83563,-150.82333 149.21687,-150.82333 z"
        fill-rule="evenodd"
-       id="path52" />
+       id="path52"
+       style="stroke-width:0.94896" />
     <path
        fill="#02c39a"
-       d="m 290.3097,417.81897 v 0 c -0.0434,-87.29984 -70.82611,-158.0473 -158.12596,-158.0473 z"
+       d="m 290.3097,405.09167 v 0 C 290.26874,321.7821 223.47406,254.26834 141.09285,254.26834 Z"
        fill-rule="evenodd"
-       id="path54" />
+       id="path54"
+       style="stroke-width:0.94896" />
     <path
        fill="#ffffff"
-       d="m 290.45422,285.52493 -90.36221,-90.3622 h 180.7244 z"
+       d="M 290.44608,278.84448 205.17504,192.61253 H 375.71709 Z"
        fill-rule="evenodd"
-       id="path56" />
+       id="path56"
+       style="fill:#eaf2d7;fill-opacity:1;stroke-width:0.94896" />
     <path
        fill="#ffab40"
-       d="m 289.48343,263.4352 v 0 c 25.81876,-37.05124 26.81723,-85.9967 2.53088,-124.06627 z"
+       d="m 289.52998,257.76442 v 0 c 24.36409,-35.35771 25.3063,-82.06599 2.38829,-118.39549 z"
        fill-rule="evenodd"
-       id="path58" />
+       id="path58"
+       style="stroke-width:0.94896" />
     <path
        fill="#ffab40"
-       d="m 289.83286,261.5741 v 0 c -16.92767,-23.3029 -19.0329,-54.23547 -5.41867,-79.61704 z"
+       d="m 289.85973,255.98839 v 0 c -15.97394,-22.23778 -17.96056,-51.7565 -5.11338,-75.97793 z"
        fill-rule="evenodd"
-       id="path60" />
+       id="path60"
+       style="stroke-width:0.94896" />
   </g>
 </svg>

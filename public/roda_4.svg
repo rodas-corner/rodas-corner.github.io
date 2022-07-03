@@ -8,15 +8,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   viewBox="0 0 316.25198 315.01846"
+   viewBox="0 0 315 265"
    fill="none"
    stroke="none"
    stroke-linecap="square"
    stroke-miterlimit="10"
    id="svg104"
-   sodipodi:docname="roda_1.svg"
-   width="316.25198"
-   height="315.01846"
+   sodipodi:docname="roda_4.svg"
+   width="315"
+   height="265"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
   <metadata
      id="metadata110">
@@ -50,12 +50,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.096875"
-     inkscape:cx="251.69816"
+     inkscape:cx="76.199585"
      inkscape:cy="253.64567"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g102" />
+     inkscape:current-layer="g102"
+     inkscape:document-rotation="0" />
   <clipPath
      id="g13b10048e4b_0_55.0">
     <path
@@ -69,38 +70,45 @@
      transform="translate(-228.30184,-16.35433)">
     <path
        fill="#ff729f"
-       d="m 477.93646,109.66178 v 0 c 31.87451,46.10577 24.26752,108.75841 -17.71414,145.89688 -41.98169,37.13847 -105.09439,37.04698 -146.9682,-0.21303 C 271.38028,218.08561 263.95495,155.41117 295.96298,109.398 Z"
+       d="m 458.55683,94.438142 v 0 c 27.18829,39.033838 20.69969,92.076508 -15.10978,123.518498 -35.8095,31.44199 -89.6433,31.36453 -125.36077,-0.18036 -35.7175,-31.54489 -42.05115,-84.60601 -14.74898,-123.561459 z"
        fill-rule="evenodd"
-       id="path84" />
+       id="path84"
+       style="stroke-width:0.849791" />
     <path
        fill="#ff729f"
-       d="m 386.86182,215.17366 57.79526,57.79527 -57.79526,57.79529 -57.79529,-57.79529 z"
+       d="m 380.87209,183.76609 49.29814,48.93035 -49.29814,48.93036 -49.29816,-48.93036 z"
        fill-rule="evenodd"
-       id="path86" />
+       id="path86"
+       style="stroke-width:0.849791" />
     <path
        fill="#02c39a"
-       d="m 386.42783,331.3728 v 0 c 0.0434,-87.29985 70.82611,-158.04735 158.126,-158.04735 z"
+       d="m 380.50191,282.14203 v 0 c 0.037,-73.90937 60.41317,-133.80527 134.87813,-133.80527 z"
        fill-rule="evenodd"
-       id="path88" />
+       id="path88"
+       style="stroke-width:0.849791" />
     <path
        fill="#02c39a"
-       d="m 386.4278,331.3728 v 0 C 386.38437,244.07295 315.60169,173.32545 228.30184,173.32545 Z"
+       d="m 380.50188,282.14203 v 0 c -0.037,-73.90937 -60.41317,-133.80527 -134.8781,-133.80527 z"
        fill-rule="evenodd"
-       id="path90" />
+       id="path90"
+       style="stroke-width:0.849791" />
     <path
        fill="#ffffff"
-       d="m 386.57233,199.07874 -90.36221,-90.3622 h 180.7244 z"
+       d="M 380.62516,170.13989 303.54811,93.637887 H 457.7022 Z"
        fill-rule="evenodd"
-       id="path92" />
+       id="path92"
+       style="fill:#eaf2d7;fill-opacity:1;stroke-width:0.849791" />
     <path
        fill="#ffab40"
-       d="m 386.52618,174.45673 v 0 c 43.62387,-43.676 43.60626,-114.44812 -0.0393,-158.1024 z"
+       d="m 380.5858,149.29452 v 0 c 37.21024,-36.97676 37.19522,-96.8935 -0.0335,-133.851871 z"
        fill-rule="evenodd"
-       id="path94" />
+       id="path94"
+       style="stroke-width:0.849791" />
     <path
        fill="#ffab40"
-       d="m 388.15332,174.61714 v 0 c -32.62585,-25.5602 -38.36496,-72.72425 -12.82101,-105.3628 z"
+       d="m 381.97371,149.43033 v 0 C 354.14455,127.79068 349.24921,87.860882 371.03766,60.228594 Z"
        fill-rule="evenodd"
-       id="path96" />
+       id="path96"
+       style="stroke-width:0.849791" />
   </g>
 </svg>
